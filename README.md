@@ -14,7 +14,7 @@ This module provides a CLI tool like `cp`, but with watching.
 ## Installation
 
 ```
-npm install cpx
+npm i @deboxsoft/cpx
 ```
 
 - Requires Node.js `>=6.5`.
